@@ -1,0 +1,7 @@
+clef-signer-enable: false
+data-dir: G:/.bee
+swap-enable: true
+swap-endpoint: 你的swap服务地址
+verbosity: trace
+welcome-message: "开始吧BZZ BZZ BZZ "
+debug-api-enable: true
